@@ -55,6 +55,6 @@ Temperatura = 298.15 K, Presión = 1 atm
  c) xmgrace watter.diff
  
 11.Comparar coeficiente de autodifusón de SPC y TIP4P_05 usando:
-  xmgrace water.diff watter.diff
+  xmgrace watter.diff water.diff
 
  
